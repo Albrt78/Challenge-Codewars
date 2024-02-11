@@ -1,3 +1,2 @@
 Hi👋
-This repository about codewars challenge 🎉🎉🎉
-===============================================
+This repository about codewars challenge 
