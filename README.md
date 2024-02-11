@@ -1,3 +1,1 @@
-Hi👋
-This repository about codewars challenge 🎉🎉🎉🎉
-You can check out my branches
+Hi👋, this repository about codewars challenge 🎉🎉🎉🎉, you can check out my branches
