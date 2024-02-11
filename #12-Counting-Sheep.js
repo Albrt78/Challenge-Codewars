@@ -10,6 +10,18 @@
   return countTrue;
 }*/
 
+/* Python */
+/* def count_sheeps(sheep):
+  count_true = 0
+
+  for i in range(len(sheep)):
+    if sheep[i] == True:
+        count_true += sheep[i]
+    else:
+        sheep[i] = 0
+        
+  return count_true*/
+
 const countSheeps = (sheep) => {
   let countTrue = 0;
   for(let i = 0; i < sheep.length; i++){
