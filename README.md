@@ -1,5 +1,0 @@
-🎉 Codewars Challenge       
-
-
-
-
