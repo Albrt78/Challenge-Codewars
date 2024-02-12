@@ -14,6 +14,20 @@
   return numberArray;
 }*/
 
+/* Python */
+/*def to_float_array(arr): 
+     for i in range(0, len(arr)):
+         arr[i] = int(arr[i])
+     return arr
+
+  def to_float_array(arr):
+      float_array = []
+      for i in range(0, len(arr)):
+         arr[i] = int(arr[i])
+         float_array.append(arr[i])
+      return arr
+*/
+
 const toNumberArray = (stringarray) =>{
   return stringarray.map(Number);
 }
